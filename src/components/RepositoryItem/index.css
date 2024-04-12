@@ -1,0 +1,40 @@
+/* Write your CSS here */
+
+.card-image-sizer {
+  width: 70px;
+}
+
+.card-bg {
+  background-color: #f8f8ff;
+  padding: 10px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 10%;
+  margin-bottom: 5%;
+  width: 17%;
+}
+
+.card-name-style {
+  font-size: 17px;
+  color: #e73959;
+}
+
+.count-div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: flex-start;
+  
+}
+
+.count-image-class {
+  width: 15px;
+  height: 15px;
+  margin-right: 8px;
+}
+
+.count-text {
+  margin: 5px 0px;
+}

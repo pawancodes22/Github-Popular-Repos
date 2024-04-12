@@ -1,0 +1,29 @@
+/* Write your CSS here */
+
+.page-bg {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 25px 5%;
+}
+
+.page-heading {
+  font-family: 'Lobster';
+}
+
+.popular-repo-ul {
+  padding: 0px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.align-to-center {
+  display: flex;
+  justify-content: center;
+}
+
+.language-filter-ul {
+  display: flex;
+}
